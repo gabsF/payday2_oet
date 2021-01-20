@@ -1,0 +1,13 @@
+{
+	"Original_English_TranslationsOptionsButtonTitleID" : "Original English Translation",
+	"Original_English_TranslationsOptionsButtonDescID" : "Decide which parts of the game should be untranslated.",
+
+    "Original_English_Translationsheist_namesTitleID" : "Heists Names",
+    "Original_English_Translationsheist_namesDescID" : "Will make the mod use the original English strings for Heists Names. \n[ Default = On ]"
+    "Original_English_Translationsdiff_namesTitleID" : "Difficulty Names",
+    "Original_English_Translationsdiff_namesDescID" : "Will make the mod use the original English strings for Difficulty Names. \n[ Default = On ]"
+    "Original_English_Translationsskill_namesTitleID" : "Skill Names",
+    "Original_English_Translationsskill_namesDescID" : "Will make the mod use the original English strings for Skill Names. \n[ Default = On ]"
+    "Original_English_Translationsperkdeck_namesTitleID" : "Perk Deck Names",
+    "Original_English_Translationsperkdeck_namesDescID" : "Will make the mod use the original English strings for Perk Deck Names. \n[ Default = On ]"
+}

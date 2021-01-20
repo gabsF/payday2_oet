@@ -1,0 +1,6 @@
+* r1
+- Released
+- Added Heists Names
+- Added Difficulty Names
+- Added Skill Names
+- Added Perk Deck Names

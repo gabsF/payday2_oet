@@ -1,0 +1,23 @@
+{
+	"name" : "Original English Translations",
+	"description" : "The official translations has some weird ways to translate some names, this mod is made for those who like to play on the official localizaions but doesn't like the way they translated the names.",
+	"author" : "gabsF",
+	"image" : "icon.png",
+	"color" : "255 0 0",
+	"contact" : "https://steamcommunity.com/id/_gab_foxJaketto_/",
+	"version" : "1",
+	"blt_version" : 2,
+	"updates" : [
+		{ 
+			"identifier" : "payday2_oet_gabsf14", 
+			"host" : { "meta" : "https://github.com/gabsF/payday2_oet/releases/download/refs%2Fheads%2Fmaster/payday2_oet.zip", }
+		}
+	]
+	"hooks" : [
+		{ "hook_id" : "lib/managers/menumanager", "script_path" : "lua/scripts/menumanager.lua" }
+		{ "hook_id" : "lib/managers/localizationmanager", "script_path" : "lua/scripts/heist_names.lua" },
+		{ "hook_id" : "lib/managers/localizationmanager", "script_path" : "lua/scripts/diff_names.lua" },
+		{ "hook_id" : "lib/managers/localizationmanager", "script_path" : "lua/scripts/skill_names.lua" },
+		{ "hook_id" : "lib/managers/localizationmanager", "script_path" : "lua/scripts/perkdeck_names.lua" },
+	]
+}

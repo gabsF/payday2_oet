@@ -1,0 +1,18 @@
+<mod name="Original_English_Translations" author="gabsF" global_key="oet">
+    <AssetUpdates id="-1" version="1" provider="modworkshop"/>
+
+    <Localization directory="Loc" default="english.txt">
+        <localization language="english" file="english.txt"/>
+    </Localization>
+
+    <Options auto_build_menu="true">
+        <options>
+            <!--Ingame the option menu background will be halved-->
+            <merge_data area_bg="half"/>
+            <option type="bool" default_value="true" name="heist_names"/>
+            <option type="bool" default_value="true" name="diff_names"/>
+            <option type="bool" default_value="true" name="perkdeck_names"/>
+            <option type="bool" default_value="true" name="skill_names"/>
+        </options>
+    </Options>
+</mod>
