@@ -1,8 +1,8 @@
 [
     {
-        "ident" : "pd2_sample_autoupdate",
+        "ident" : "payday2_oet_gabsf14",
         "hash" : "%HASH%",
-        "patchnotes_url" : "https://example.com/other-patchnotes.html",
+        "patchnotes_url" : "https://modworkshop.net/mod/30701#changelog",
         "download_url" : "https://github.com/HugoZink/PD2AutoUpdateExample/releases/download/refs%2Fheads%2Fmaster/pd2autoupdatexample.zip"
     }
 ]
