@@ -10,7 +10,7 @@
 	"updates" : [
 		{ 
 			"identifier" : "payday2_oet_gabsf14", 
-			"host" : { "meta" : "https://github.com/gabsF/payday2_oet/releases/download/refs%2Fheads%2Fmaster/payday2_oet.zip", }
+			"host" : { "meta" : "https://github.com/gabsF/payday2_oet/releases/download/payday2_oet/original_english_translations.zip", }
 		}
 	]
 	"hooks" : [
