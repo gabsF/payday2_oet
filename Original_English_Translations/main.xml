@@ -1,5 +1,5 @@
 <mod name="Original_English_Translations" author="gabsF" global_key="oet">
-    <AssetUpdates id="-1" version="1" provider="modworkshop"/>
+    <AssetUpdates id="-1" version="2" provider="modworkshop"/>
 
     <Localization directory="Loc" default="english.txt">
         <localization language="english" file="english.txt"/>
