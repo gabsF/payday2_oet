@@ -205,6 +205,10 @@ if(oet.Options:GetValue("heist_names")) then
             heist_help = "Prison Nightmare",--Prison Nightmare
             heist_help_hl = "Prison Nightmare",--Prison Nightmare
 
+            -- Jiu Feng
+            heist_chas = "Dragon Heist",
+            heist_chas_hl = "Dragon Heist",
+
             -- Escapes
             heist_escape_street = "Escape Stret",
             heist_escape_street_hl = "Escape Stret",
