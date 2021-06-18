@@ -208,6 +208,8 @@ if(oet.Options:GetValue("heist_names")) then
             -- Jiu Feng
             heist_chas = "Dragon Heist",
             heist_chas_hl = "Dragon Heist",
+            heist_sand_hl = "The Ukrainian Prisoner",
+            heist_sand = "The Ukrainian Prisoner",
 
             -- Escapes
             heist_escape_street = "Escape Stret",

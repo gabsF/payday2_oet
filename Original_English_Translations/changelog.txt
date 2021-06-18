@@ -1,3 +1,6 @@
+* r2
+- Added The Ukrainian Prisoner
+
 * 1.1
 - Added Auto Updates via Github
 
