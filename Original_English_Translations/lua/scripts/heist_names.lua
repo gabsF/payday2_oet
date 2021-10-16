@@ -188,6 +188,8 @@ if(oet.Options:GetValue("heist_names")) then
             heist_mallcrasher_hl = "Mallcrasher",--Mallcrasher
             heist_four_stores = "Four Stores",--Four Stores
             heist_four_stores_hl = "Four Stores",--Four Stores
+            heist_chca_hl = "Black Cat",
+            heist_chca = "Black Cat",
 
             -- Jimmy
             heist_mad = "Boiling Point",--Boiling Point
