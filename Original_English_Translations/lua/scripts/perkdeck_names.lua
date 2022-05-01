@@ -64,6 +64,9 @@ if(oet.Options:GetValue("perkdeck_names")) then
 
             -- Hacker
             menu_st_spec_21 = "Hacker",
+
+            -- Leech
+            menu_st_spec_22 = "Leech",
         })
     end)
 

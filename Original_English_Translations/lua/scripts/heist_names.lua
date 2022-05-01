@@ -224,6 +224,10 @@ if(oet.Options:GetValue("heist_names")) then
             heist_escape_overpass_hl = "Escape Overpass",
             heist_escape_garage = "Escape Garage",
             heist_escape_garage_hl = "Escape Garage",
+
+            -- Shayu
+            heist_pent_hl = "Mountain Master",
+            heist_pent = "Mountain Master",
         })
     end)
 
