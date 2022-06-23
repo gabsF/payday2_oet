@@ -228,6 +228,10 @@ if(oet.Options:GetValue("heist_names")) then
             -- Shayu
             heist_pent_hl = "Mountain Master",
             heist_pent = "Mountain Master",
+
+            -- Cowgirl
+            heist_ranc_hl = "Midland Ranch",
+            heist_ranc = "Midland Ranch",
         })
     end)
 
