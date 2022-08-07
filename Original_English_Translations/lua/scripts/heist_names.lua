@@ -67,7 +67,7 @@ if(oet.Options:GetValue("heist_names")) then
             heist_red2 = "First World Bank",
             heist_red2_hl = "First World Bank",
             heist_glace = "Green Bridge",
-            heist_glace_hl = "Green Brigde",
+            heist_glace_hl = "Green Bridge",
             heist_run = "Heat Street",
             heist_run_hl = "Heat Street",
             heist_nmh = "No Mercy",

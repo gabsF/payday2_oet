@@ -1,2 +1,2 @@
-* 6
-- Added Midland Ranch Heist
+* 7
+- Fixed a typo on Green Bridge name
