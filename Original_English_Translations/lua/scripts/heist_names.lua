@@ -26,6 +26,10 @@ if(oet.Options:GetValue("heist_names")) then
             heist_safehouse_hl = "The Safe House",--The safe house
             heist_rvd = "Reservoir Dogs Heist",
             heist_rvd_hl = "Reservoir Dogs Heist",
+            heist_rvd1 = "Highland Mortuary",
+            heist_rvd1_hl = "Highland Mortuary",
+            heist_rvd2 = "Garnet Group Boutique",
+            heist_rvd2_hl = "Garnet Group Boutique",
             heist_chill_combat = "Safe House Raid",--Safe House Raid
             heist_chill_combat_hl = "Safe House Raid",--Safe House Raid
             chill_combat_header = "Safe House Raid",--Safe House Raid
@@ -232,6 +236,26 @@ if(oet.Options:GetValue("heist_names")) then
             -- Cowgirl
             heist_ranc_hl = "Midland Ranch",
             heist_ranc = "Midland Ranch",
+            
+            -- Holdout levels
+            heist_skm_mus_h1 = "The Diamond",
+            heist_skm_arena_h1 = "The Alesso Heist",
+            heist_skm_bex_h1 = "San Martín Bank",
+            heist_skm_big2_h1 = "The Big Bank",
+            heist_skm_cas_h1 = "Golden Grin Casino",
+            heist_skm_mallcrasher_h1 = "Mallcrasher",
+            heist_skm_red2_h1 = "First World Bank",
+            heist_skm_run_h1 = "Heat Street",
+            --heist_skm_watchdogs_stage2_h1 = "Boat Load",
+            heist_skm_mus = "The Diamond",
+            heist_skm_arena = "The Alesso Heist",
+            heist_skm_bex = "San Martín Bank",
+            heist_skm_big2 = "The Big Bank",
+            heist_skm_cas = "Golden Grin Casino",
+            heist_skm_mallcrasher = "Mallcrasher",
+            heist_skm_red2 = "First World Bank",
+            heist_skm_run = "Heat Street",
+            heist_skm_watchdogs_stage2 = "Boat Load",
         })
     end)
 
