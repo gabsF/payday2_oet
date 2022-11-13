@@ -236,6 +236,8 @@ if(oet.Options:GetValue("heist_names")) then
             -- Cowgirl
             heist_ranc_hl = "Midland Ranch",
             heist_ranc = "Midland Ranch",
+            heist_trai = "Lost in Transit",
+            heist_trai_hl = "Lost in Transit",
             
             -- Holdout levels
             heist_skm_mus_h1 = "The Diamond",

@@ -24,7 +24,7 @@ if(oet.Options:GetValue("perkdeck_names")) then
             menu_st_spec_7 = "Burglar",
 
             -- Infiltrator
-            menu_st_spec_8 = "Infiltrador",
+            menu_st_spec_8 = "Infiltrator",
 
             -- Sociopath
             menu_st_spec_9 = "Sociopath",
