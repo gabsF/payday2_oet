@@ -238,6 +238,10 @@ if(oet.Options:GetValue("heist_names")) then
             heist_ranc = "Midland Ranch",
             heist_trai = "Lost in Transit",
             heist_trai_hl = "Lost in Transit",
+
+            -- Keegan
+            heist_corp_hl = "Hostile Takeover",
+            heist_corp = "Hostile Takeover",
             
             -- Holdout levels
             heist_skm_mus_h1 = "The Diamond",
